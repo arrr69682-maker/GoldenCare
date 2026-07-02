@@ -1,0 +1,6 @@
+{
+  "name": "Elderly Care and Volunteer Portal",
+  "description": "A comprehensive web portal for elderly people to get health consultation, view welfare rights, and connect with volunteers nearby for hospital accompaniment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
